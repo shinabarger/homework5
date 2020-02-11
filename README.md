@@ -1,2 +1,2 @@
-# homework5
-Homework assignment for University of Michigan's web design course, SI 539
+# homework_5
+Starter code for Homework 5 - Flex
